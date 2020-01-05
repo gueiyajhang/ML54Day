@@ -15,4 +15,5 @@
 1. Data Preprocessing
 2. Fitting Multiple Linear Regression to the Training set
 3. Predicting the Test set results
-## Day 4 
+## Day 4 Logistic Regression
+Linear v.s. Logistic regression
