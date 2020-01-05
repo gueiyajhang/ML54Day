@@ -17,3 +17,5 @@
 3. Predicting the Test set results
 ## Day 4 Logistic Regression
 Linear v.s. Logistic regression
+## Day 5 Logistic Regression
+Learned how cost function is calculated and then how to apply gradient descent algorithm to cost function to minimize the error in prediction.
