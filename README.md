@@ -5,9 +5,9 @@
 3. Handling Mising Data
 4. Encoding Categorical Data
 5. Splitting Data into train and test
-6. Feature Scaling
+6. Feature Scaling (standard scaler)
 ## Day 2 Simple Linear Regression
 1. Data Preprocessing
 2. Fitting Simple Linear Regression Model to the training set
 3. Predecting the Result
-4. Visualization
+4. Visualization (matplotlib)
