@@ -11,3 +11,8 @@
 2. Fitting Simple Linear Regression Model to the training set
 3. Predecting the Result
 4. Visualization (matplotlib)
+## Day 3 Multiple Linear Regression
+1. Data Preprocessing
+2. Fitting Multiple Linear Regression to the Training set
+3. Predicting the Test set results
+## Day 4 
