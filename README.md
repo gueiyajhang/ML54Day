@@ -19,3 +19,8 @@
 Linear v.s. Logistic regression
 ## Day 5 Logistic Regression
 Learned how cost function is calculated and then how to apply gradient descent algorithm to cost function to minimize the error in prediction.
+## Day 6 Implementing Logistic Regression
+1. Data Pre-Processing
+2. Logistic Regression Model
+3. Predection
+4. Evaluating The Predection
